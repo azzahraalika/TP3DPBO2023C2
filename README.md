@@ -26,3 +26,6 @@ User bisa menambahkan lagu dengan klik add Lagu pada navbar. User bisa juga meng
 Kalo user ingin mencari lagu, user bisa mencari pada navbar dengan memasukkan keyword berbentuk judul lagu, nama agensi, dan nama idol. 
 
 Ketika user klik halaman agensi atau idol maka akan ditampilkan tabel berisi list agensi dan idol beserta form untuk menambah data atau nmengubah data. Kalo user mau mengubah data maka klik icon update atau ketika user ingin menghapus data maka klik icon hapus. 
+
+## DESAIN PROGRAM 
+![desain](https://github.com/azzahraalika/TP3DPBO2023C2/assets/101117829/91ccd41b-8ba6-4069-8a62-a9528087720a)
